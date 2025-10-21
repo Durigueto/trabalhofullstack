@@ -111,3 +111,7 @@ Credencias da API:
 
 Link URL:  https://pjonazzkfgshmlaxzsrq.supabase.co/
 API: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBqb25henprZmdzaG1sYXh6c3JxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjA4MDc1NTUsImV4cCI6MjA3NjM4MzU1NX0.0VK_CgPEjVMQlkL2uIDzsz-fmJZAVaMacYaSyLNIxzk
+
+## Video explicativo do código
+
+https://youtu.be/CpRg2AYPlvI
